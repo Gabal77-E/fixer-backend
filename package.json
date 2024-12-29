@@ -1,0 +1,9 @@
+{
+  "name": "fixer-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node dist/server.js",
+    "dev": "nodemon src/server.ts",
+    "test": "jest"
+  }
+}
